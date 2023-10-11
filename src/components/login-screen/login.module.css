@@ -1,0 +1,17 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 480px;
+    width: 100%;
+}
+
+.loginTextHeader {
+    text-align: center;
+}
+
+.errorBlock {
+    text-align: center;
+    padding-bottom: 1rem;
+    color: red;
+}
